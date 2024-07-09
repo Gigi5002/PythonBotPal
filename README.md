@@ -77,6 +77,7 @@
     - **Добавление метода оплаты:**
        ```bash
        python main_payment_bot.py
+       python payment_bot.py
        ```
 
 3. Запуск ngrok для туннелирования (для работы с HTML файлом: index.html):
