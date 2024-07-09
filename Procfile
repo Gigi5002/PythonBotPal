@@ -1,0 +1,1 @@
+worker: python main_payment_bot.py
